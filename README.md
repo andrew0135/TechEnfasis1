@@ -6,9 +6,7 @@
 ###### Hola Mundo 6
 
 Negrita:
-## **Este es mi
-primer repositorio
-en GitHub**
+## **Este es mi primer repositorio en GitHub**
 
 Cursiva:
 *Administracion de
